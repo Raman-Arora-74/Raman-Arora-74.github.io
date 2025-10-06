@@ -31,5 +31,4 @@ An AI-powered PDF Reader that allows users to upload PDF files and ask questions
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/ai-pdf-reader.git
-cd ai-pdf-reader
+https://github.com/Raman-Arora-74/Raman-Arora-74.github.io.git
